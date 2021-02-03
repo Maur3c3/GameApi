@@ -1,0 +1,8 @@
+name: GameApi
+version: 1.0
+main: de.maur3c3.gameapi.GameApiPlugin
+depend:
+  - Core
+commands:
+  gameapi:
+  setup:
